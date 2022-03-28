@@ -4,7 +4,7 @@
 
 NES In Game Reset
 
-[Post](https://github.com/JeffWDH/NES-In-Game-Reset)
+[Post](https://www.tarball.ca/posts/nes-in-game-reset-arduino/)
 
 [Github](https://github.com/JeffWDH/NES-In-Game-Reset)
 
