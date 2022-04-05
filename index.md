@@ -15,8 +15,3 @@ TTGO T-ETH (T-Internet) KiCad Footprint
 [Github](https://github.com/JeffWDH/TTGO-T-ETH-KiCad)
 
 [PHP WWW Counter](https://github.com/JeffWDH/PHP-WWW-Counter)
-
-[MyFitnessPal Python Weight Updater](https://github.com/JeffWDH/MyFitnessPal-Python-Weight-Updater)
-
-
-
